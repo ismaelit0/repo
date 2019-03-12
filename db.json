@@ -1,8 +1,18 @@
 {
-  "posts": [
+  "get": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Saul"
+    },
+    {
+      "id": 2,
+      "name": "Gerardo"
+    },
+  ],
+  "put": [
+    {
+      "id": 2,
+      "title": "Raul"
     }
   ],
   "profile": {
